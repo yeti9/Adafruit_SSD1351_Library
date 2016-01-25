@@ -1,5 +1,5 @@
 {
-  "name": "Adafruit_SSD1351_Library",
+  "name": "Adafruit_SSD1351",
   "author": "Joe Goggins <joe@spark.io>",
   "license": "MIT",
   "version": "0.0.10",
